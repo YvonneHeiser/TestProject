@@ -6,3 +6,4 @@ plot(mtcars$mpg, mtcars$hp,
      xlab = "Miles per Gallon",
      ylab = "Horsepower",
      main = "MPG vs Horsepower")
+# This is a new line
