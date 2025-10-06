@@ -7,4 +7,3 @@ plot(mtcars$mpg, mtcars$hp,
      ylab = "Horsepower",
      main = "MPG vs Horsepower")
 # This is a new line
-# This is another line
